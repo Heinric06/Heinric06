@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Heinric06
+- 👋 Hi, I’m Heinrico Barendse
 - 👀 I’m interested in Full Stack development & Cyber Security
 - 🌱 I’m currently learning Cyber Security
 - 💞️ I’m looking to collaborate on anything involving fullstack development or back end (Python)
